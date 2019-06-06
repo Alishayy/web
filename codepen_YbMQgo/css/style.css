@@ -1,0 +1,40 @@
+h1 {
+  /* 设置了字的大小，px是单位，你可以尝试改成其它大小 */
+  font-size: 30px;
+}
+p{
+  /* 设置了字的颜色，你可以尝试改成yellow */
+  color: red;
+}
+body{
+  margin:0;
+}
+.body{
+  float:left;
+  background-color:#1D1E22;
+  height:300px;
+  width:429.6px;
+  border:20px solid #333641;
+  border-top:none;
+  border-bottom:none;
+}
+#CSS{
+  border:none;
+}
+#JS{
+  border-right:none;
+}
+.input{
+  background-color:#1D1E22;
+  border:none;
+  height:300px;
+  width:429.6px;
+  color:#DDCA7E;
+}
+#btn{
+  height:30px;
+  margin-top:30px;
+  background-color:#DDCA7E;
+  border:none;
+  color:#2D9053;
+}
